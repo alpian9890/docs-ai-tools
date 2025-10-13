@@ -28,6 +28,11 @@ const translations = {
     createdBy: 'Created by @alpian9890',
     noToolsFound: 'No tools found matching your search.',
     tryDifferent: 'Try a different search term or category.',
+    notFoundHeading: 'Lost in the docs?',
+    notFoundTitle: 'This page isn\'t in our catalog',
+    notFoundDescription: 'We searched the AI Tools library but couldn\'t locate the page you requested.',
+    notFoundExplore: 'Explore the catalog',
+    notFoundSupport: 'Use the search or browse categories to keep exploring.',
   },
   id: {
     title: 'Dokumentasi AI Tools',
@@ -46,6 +51,11 @@ const translations = {
     createdBy: 'Dibuat oleh @alpian9890',
     noToolsFound: 'Tidak ada alat yang ditemukan yang sesuai dengan pencarian Anda.',
     tryDifferent: 'Coba istilah pencarian atau kategori yang berbeda.',
+    notFoundHeading: 'Tersesat di dokumentasi?',
+    notFoundTitle: 'Halaman ini tidak tersedia',
+    notFoundDescription: 'Kami mencari di katalog AI Tools tetapi tidak menemukan halaman yang kamu minta.',
+    notFoundExplore: 'Jelajahi katalog',
+    notFoundSupport: 'Gunakan pencarian atau kembali ke kategori untuk terus menjelajah.',
   },
 };
 

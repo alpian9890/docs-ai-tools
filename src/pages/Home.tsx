@@ -58,7 +58,7 @@ export default function Home() {
     <div className="min-h-screen flex flex-col bg-background">
       <Header />
       
-      <main className="flex-1 container mx-auto px-4 py-12">
+      <main id="catalog" className="flex-1 container mx-auto px-4 py-12">
         {/* Hero Section */}
         <section className="text-center mb-16 space-y-6 animate-fade-in">
           <div className="inline-flex items-center gap-2 px-4 py-2 rounded-full bg-gradient-to-r from-primary/10 to-secondary/10 border border-primary/20 mb-4">
