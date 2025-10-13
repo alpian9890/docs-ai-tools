@@ -171,7 +171,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "florafauna",
     name: "FloraFauna AI",
-    url: "https://florafauna.ai",
+    url: "florafauna.ai",
     category: "Creative Workflow",
     summary: {
       en: "AI creative workflow platform for teams that automates visual content creation with repeatable generative workflows.",
@@ -185,7 +185,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "elevenlabs",
     name: "ElevenLabs",
-    url: "https://elevenlabs.io",
+    url: "try.elevenlabs.io/6vw43gb42fsm",
     category: "Text-to-Speech",
     summary: {
       en: "AI voice synthesis platform producing highly realistic and expressive speech with voice cloning and multilingual support.",
@@ -199,7 +199,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "manus",
     name: "Manus AI",
-    url: "https://manus.im",
+    url: "manus.im",
     category: "AI Agent",
     summary: {
       en: "Autonomous AI agent platform that executes tasks and automates workflows by planning, executing, and delivering results.",
@@ -213,7 +213,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "suno",
     name: "Suno AI",
-    url: "https://suno.com",
+    url: "suno.com/invite/@existentialhit903",
     category: "Music Generation",
     summary: {
       en: "Generative AI platform for audio and music creation with text-to-audio model Bark and AI music composition tools.",
@@ -227,7 +227,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "napkin",
     name: "Napkin AI",
-    url: "https://napkin.ai",
+    url: "napkin.ai",
     category: "Visualization",
     summary: {
       en: "AI tool that instantly transforms text notes into visual diagrams, flowcharts, and illustrations for presentations.",
@@ -241,7 +241,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "aigcarena",
     name: "AIGC Arena",
-    url: "https://aigcarena.com",
+    url: "aigcarena.com",
     category: "Model Comparison",
     summary: {
       en: "Platform for comparing AI generative models side-by-side, showcasing outputs from multiple models for the same prompt.",
@@ -255,7 +255,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "replit",
     name: "Replit",
-    url: "https://replit.com",
+    url: "replit.com/refer/alpian9890",
     category: "Code Assistant",
     summary: {
       en: "Online coding platform with multi-language IDE, real-time collaboration, and Ghostwriter AI assistant for code generation.",
@@ -269,7 +269,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "copilot",
     name: "Microsoft Copilot",
-    url: "https://copilot.microsoft.com",
+    url: "copilot.microsoft.com",
     category: "AI Assistant",
     summary: {
       en: "Microsoft's AI assistant integrated across Office, Windows, and web services for enhanced productivity and creativity.",
@@ -283,7 +283,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "minimax",
     name: "MiniMax AI",
-    url: "https://minimaxai.me",
+    url: "minimaxai.me",
     category: "Video & Image Generation",
     summary: {
       en: "Chinese AI company's platform offering advanced text-to-video generation and photo enhancement capabilities.",
@@ -297,7 +297,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "leonardo",
     name: "Leonardo AI",
-    url: "https://leonardo.ai",
+    url: "leonardo.ai",
     category: "Image Generation",
     summary: {
       en: "Commercial AI platform for high-quality visual asset creation with fine-tuning, AI canvas, and 3D texture generation.",
@@ -311,7 +311,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "domoai",
     name: "DomoAI",
-    url: "https://domoai.app",
+    url: "domoai.app",
     category: "Video & Image Editing",
     summary: {
       en: "Creative AI platform for video and image transformation, offering style transfer, animation, and text-to-media generation.",
@@ -325,7 +325,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "pika",
     name: "Pika",
-    url: "https://pika.art",
+    url: "pika.art",
     category: "Video Generation",
     summary: {
       en: "Idea-to-video AI platform for creating short, creative social media videos with unique effects and templates.",
@@ -339,7 +339,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "udio",
     name: "Udio",
-    url: "https://udio.com",
+    url: "udio.com",
     category: "Music Generation",
     summary: {
       en: "AI music generator creating complete songs with vocals and instruments from simple text prompts instantly.",
@@ -353,7 +353,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "agentrouter",
     name: "AgentRouter",
-    url: "https://agentrouter.org",
+    url: "agentrouter.org/register?aff=mmbW",
     category: "AI Infrastructure",
     summary: {
       en: "Automatic AI model routing service optimized for programming tasks, selecting the best performance-to-cost ratio model.",
@@ -367,7 +367,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "openrouter",
     name: "OpenRouter",
-    url: "https://openrouter.ai",
+    url: "openrouter.ai",
     category: "AI Infrastructure",
     summary: {
       en: "Unified API platform providing access to 500+ AI models from 60+ providers with intelligent routing and cost optimization.",
@@ -381,7 +381,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "streamlake",
     name: "StreamLake AI",
-    url: "https://streamlake.ai",
+    url: "streamlake.ai",
     category: "Video Cloud & AI",
     summary: {
       en: "Video+AI cloud service platform by Kuaishou offering enterprise AI models and audio-visual solutions with advanced technology.",
@@ -395,7 +395,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "zhipu",
     name: "Zhipu AI",
-    url: "https://z.ai",
+    url: "z.ai",
     category: "Conversational AI",
     summary: {
       en: "Chinese AI company developing GLM language models with focus on safe AGI, offering free chatbot interface and API services.",
@@ -409,7 +409,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "qwen",
     name: "Qwen",
-    url: "https://qwen.ai",
+    url: "qwen.ai",
     category: "Conversational AI",
     summary: {
       en: "Alibaba's open-source LLM family with advanced reasoning and multilingual support for 119 languages, accessible via free chat interface.",
@@ -423,7 +423,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "qwen-chat",
     name: "Qwen Chat",
-    url: "https://chat.qwen.ai",
+    url: "chat.qwen.ai",
     category: "Conversational AI",
     summary: {
       en: "Free chatbot interface for Alibaba's Qwen AI models, supporting multi-turn dialog and various assistance tasks including coding.",
@@ -437,7 +437,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "deepseek",
     name: "DeepSeek AI",
-    url: "https://chat.deepseek.com",
+    url: "chat.deepseek.com",
     category: "Conversational AI",
     summary: {
       en: "Open-source AI chatbot from China with high-performance models supporting long-context chat, coding assistance, and document processing.",
@@ -451,7 +451,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "grok",
     name: "Grok",
-    url: "https://grok.com",
+    url: "grok.com",
     category: "Conversational AI",
     summary: {
       en: "xAI's AI assistant by Elon Musk offering real-time internet search, image generation, and advanced reasoning with witty personality.",
@@ -465,7 +465,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "perplexity",
     name: "Perplexity AI",
-    url: "https://perplexity.ai",
+    url: "perplexity.ai",
     category: "AI Search Engine",
     summary: {
       en: "AI-powered answer engine providing accurate, cited responses with real-time internet search and document upload capabilities.",
@@ -479,7 +479,7 @@ export const aiToolsData: AITool[] = [
   {
     id: "kimi",
     name: "Kimi",
-    url: "https://kimi.com",
+    url: "kimi.com",
     category: "Conversational AI",
     summary: {
       en: "Moonshot AI's chatbot with massive context window (200K+ characters) and open-source K2 model with 1 trillion parameters.",
