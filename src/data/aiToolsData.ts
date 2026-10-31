@@ -489,6 +489,20 @@ export const aiToolsData: AITool[] = [
       en: "kimi.com is an AI chatbot platform named Kimi developed by Moonshot AI (one of the leading AI startups in China, backed by investment from Alibaba). Kimi is known for its innovation in a very large context window: its first version in 2023 was able to process inputs of up to ~200,000 characters in a single session, making it the first AI model to achieve such a large context capacity. In 2025, Moonshot released Kimi K2, a large language model with a Mixture-of-Experts architecture with a total of 1 trillion parameters (32 billion active parameters) which was opened to the public as open-source under a modified MIT license. Kimi K2 showed superior performance in various benchmarks (especially programming tasks) while maintaining good performance across a range of other capabilities. Through the web interface at kimi.com, users can try Kimi for free for various purposes: from asking for general knowledge, getting intelligent coding assistance, to utilizing autonomous AI agents (for example, the Kimi Researcher feature for automatic research). The platform also offers additional features such as Kimi+ (for example, automatic creation of presentation slides from idea inputs) and real-time internet search integration, making Kimi one of the most versatile AI assistants with a broad ecosystem of features.",
       id: "kimi.com adalah platform chatbot AI bernama Kimi yang dikembangkan oleh Moonshot AI (salah satu startup AI terdepan di Tiongkok, didukung investasi Alibaba). Kimi dikenal karena inovasinya dalam context window yang sangat besar: versi pertamanya pada 2023 mampu memproses input hingga ~200 ribu karakter dalam satu sesi, menjadikannya model AI pertama yang mencapai kapasitas konteks sebesar itu. Pada tahun 2025, Moonshot merilis Kimi K2, yakni model bahasa besar berarsitektur Mixture-of-Experts dengan total 1 triliun parameter (32 miliar parameter aktif) yang dibuka ke publik sebagai open-source di bawah lisensi MIT yang telah dimodifikasi. Kimi K2 menunjukkan kinerja unggul di berbagai benchmark (terutama tugas pemrograman) sekaligus mempertahankan performa baik pada berbagai kemampuan lainnya. Melalui antarmuka web di kimi.com, pengguna dapat mencoba Kimi secara gratis untuk berbagai keperluan: mulai dari bertanya pengetahuan umum, mendapatkan bantuan coding yang cerdas, hingga memanfaatkan agen AI otonom (misalnya fitur Kimi Researcher untuk riset otomatis). Platform ini juga menawarkan fitur tambahan seperti Kimi+ (contohnya pembuatan slide presentasi otomatis dari masukan ide) dan integrasi pencarian internet real-time, menjadikan Kimi salah satu asisten AI serbaguna dengan ekosistem fitur yang luas."
     }
+  },
+  {
+    id: "agent-qa",
+    name: "agent-qa",
+    url: "vostride.com",
+    category: "AI Agent",
+    summary: {
+      en: "Natural-language web and mobile testing with persistent memidex memory, validated self-improvement, and MCP integration.",
+      id: "Pengujian web dan seluler dengan bahasa alami, memori memidex persisten, perbaikan diri tervalidasi, dan integrasi MCP."
+    },
+    description: {
+      en: "agent-qa by vostride runs natural-language tests for web, Android, and iOS apps through its CLI and MCP server. Persistent memidex memory retains project facts and reusable procedures; validated self-improvement turns run lessons and feedback into reviewable knowledge. Runs produce evidence that developers can inspect. Model and optional device-service costs depend on configuration and usage. Runtime license: FSL-1.1-ALv2.",
+      id: "agent-qa dari vostride menjalankan pengujian berbasis bahasa alami untuk aplikasi web, Android, dan iOS melalui CLI dan server MCP. Memori memidex persisten menyimpan fakta proyek serta prosedur yang dapat digunakan kembali; perbaikan diri tervalidasi mengubah pelajaran dari pengujian dan umpan balik menjadi pengetahuan yang dapat ditinjau. Setiap pengujian menghasilkan bukti yang dapat diperiksa pengembang. Biaya model dan layanan perangkat opsional bergantung pada konfigurasi dan penggunaan. Lisensi runtime: FSL-1.1-ALv2."
+    }
   }
 ];
 
